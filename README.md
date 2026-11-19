@@ -102,13 +102,13 @@ Nama_NRP_Departemen_KPP-Webdev/
 
 Tidak diperlukan instalasi atau konfigurasi tambahan.
 
-## Identitas Peserta
+## Identitas 
 
 | Keterangan | Detail |
 | --- | --- |
 | Nama | Fadlan Iffat Inayat |
-| NRP | Isi NRP Anda |
-| Departemen | Isi Departemen Anda |
+| NRP | 5027261098 |
+| Departemen | Teknologi Informasi|
 
 ## Ketentuan Tugas yang Dipenuhi
 
