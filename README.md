@@ -122,14 +122,5 @@ Tidak diperlukan instalasi atau konfigurasi tambahan.
 - [x] Layout responsif untuk perangkat mobile.
 - [x] README memuat judul proyek, deskripsi, dan nama peserta.
 
-## Catatan
-
-Sebelum mengumpulkan, ganti bagian **NRP** dan **Departemen** pada tabel identitas peserta. Repository sebaiknya dibuat public menggunakan format nama:
-
-```text
-Nama_NRP_Departemen_KPP-Webdev
-```
-
----
 
 © 2027 SANGATTA — dibuat oleh **Fadlan Iffat Inayat**.
