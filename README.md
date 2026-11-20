@@ -1,5 +1,7 @@
 # SANGATTA — Pusat Kota hingga Pesisir Kutai Timur
 
+link : https://sangatta.vercel.app/
+
 Landing page informatif tentang Sangatta, ibu kota Kabupaten Kutai Timur, Kalimantan Timur. Website ini mengenalkan kawasan Bukit Pelangi, ruang terbuka kota, landmark lokal, Danau Polder Ilham Maulana, serta pesisir Sangatta yang menghadap Selat Makassar.
 
 Proyek dibuat sebagai pemenuhan **Special Task Web Development Bayucaraka 2027**.
